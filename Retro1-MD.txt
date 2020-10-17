@@ -1,0 +1,46 @@
+
+# Retrospected Session
+
+## Bears Attack!
+
+### Session details:
+
+**Date**: Saturday, 17 October 2020 at 09:32:27 GMT+02:00
+
+**URL**: https://www.retrospected.com/game/kjNQO1Ao6
+
+**Participants**: BEARS ATTACK!, BP, Damian Czajka, Damian M, Mateusz Maślach, Mateusz Stanek
+
+**Posts**: 10
+
+**Votes**: 31
+
+### Actions
+
+- Oglądnięcie tutoriali na Youtube w celu zapoznania się z podstawami technologii.
+- Skorzystanie z dostępnych darmowych animacji oraz grafik
+- Skorzystanie z rady osoby z zewnątrz w celu konsultacji problemów w projekcie. 
+
+### Posts
+
+  
+#### What went well?
+
+- (+5/-0) Dobre zgranie w zespole
+- (+5/-0) Wszystkie założenia zostały zrealizowane.
+- (+4/-0) Dobra dokumentacja projektu
+
+  
+#### What could be improved?
+
+- (+4/-0) Słaba znajomość technologii Unity
+- (+2/-0) Brak osoby w zespole zajmującej się grafiką i animacją
+- (+2/-0) W zespole brak osoby doświadczonej w technologii Unity
+
+  
+#### A brilliant idea to share?
+
+- (+4/-0) Dodać .gitignore do repozytorium, żeby pozbyć się nadmiaru niepotrzebnych plików
+- (+3/-0) Znaleźć sposób na udostępnianie dźwięku na następnym demie
+- (+1/-0) Rozpocząć testy od następnego sprintu 
+- (+1/-0) Zagranie w inne gry typu runner
