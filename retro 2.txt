@@ -1,0 +1,26 @@
+Retrospected Session
+My Retrospective
+Session details:
+Date: Sunday, 25 October 2020 at 11:56:26 GMT+01:00
+
+URL: https://www.retrospected.com/game/5Z_FItKmZ
+
+Participants: Bartek Żmuda, Damian Czajka, Lamp, Mateusz Maślach, Mateusz Stanek
+
+Posts: 5
+
+Votes: 16
+
+Actions
+Rozpoczęcie realizacji zadań nie dwa dni przed końcem sprintu w przypadku nieoczekiwanych zachorowań wsparcie pozostałych członków zespołu w realizacji zadań.
+Posts
+What went well?
+(+3/-0) Cel sprintu został osiągnięty
+(+3/-0) Wykrycie błędu ze sterowanie w fazie testowania
+(+3/-0) Utrzymaliśmy komunikację w zespole na wysokim poziomie.
+
+What could be improved?
+(+4/-0) Nie uwzględniliśmy możliwości zachorowania osób w zespole
+
+A brilliant idea to share?
+(+3/-0) Skorzystanie z przedstawionych pomysłów w analizie mechanik innych gier
