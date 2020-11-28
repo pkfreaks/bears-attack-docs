@@ -1,0 +1,37 @@
+Retrospected Session
+My Retrospective
+Session details:
+
+Date: Saturday, 28 November 2020 at 08:57:33 GMT+01:00
+
+URL: https://www.retrospected.com/game/kWURion-0
+
+Participants: Bartosz Pawelczyk, Bartłomiej Żmuda, Damian Czajka, Damian Malczewski, Lamp, Mateusz Maslach, Mateusz Stanek
+
+Posts: 8
+
+Votes: 26
+Actions
+
+    Rozbicie złożonego zadania na mniejsze
+    Lepsze przygotowanie całego zespołu do podsumowania sprintu
+
+Posts
+What went well?
+
+    (+5/-0) Komunikacja nadal utrzymywała się na wysokim poziomie.
+    (+5/-0) Szybkie i sprawne namierzenie problemu ze skalowaniem
+
+    (+5/-0) Cel sprintu został osiągnięty
+
+What could be improved?
+
+    (+4/-0) Zrealizowane zostało 60% planowanych tasków.
+    (+2/-0) Brak prezentacji na podsumowaniu
+    (+0/-0) Podczas planowania wystąpił błąd liczenia SP
+
+    (+0/-3) Prezentacja wartości dowiezionej sprowadza się do monologu SM bez wsparcia zespołu Scrumowego
+
+A brilliant idea to share?
+
+    (+2/-0) Przeanalizowanie możliwych form dystrybucji gotowego produktu
